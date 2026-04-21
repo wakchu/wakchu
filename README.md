@@ -7,8 +7,10 @@ A Software Architect Specialist student at ITS Angelo Rizzoli, passionate about 
 
 # 💻 Tech Stack:
   - Programming languages:
+    
     [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,laravel,php,java,react)](https://skillicons.dev)
   - Tools:
+    
     [![Tools](https://skillicons.dev/icons?i=linux,ubuntu,phpstorm,docker,git,obsidian,aws,mysql,neovim,postman,supabase,vercel)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wakchu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
