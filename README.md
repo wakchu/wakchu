@@ -3,7 +3,7 @@ A Software Architect Specialist student at ITS Angelo Rizzoli, passionate about 
 
 
 ## 🌐 Socials:
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/wakchu) [![Instagram](https://skillicons.dev/icons?i=discord)](https://instagram.com/wak.chu) [![Linkedin](https://skillicons.dev/icons?i=discord)](https://linkedin.com/in/StefanoBordoni) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/wakchu) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/wak.chu) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/StefanoBordoni) 
 
 # 💻 Tech Stack:
   - Programming languages:
