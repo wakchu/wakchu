@@ -16,4 +16,3 @@ A Software Architect Specialist student at ITS Angelo Rizzoli, passionate about 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wakchu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wakchu&icon=3&color=12)](https://visitcount.itsvg.in)
