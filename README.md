@@ -8,7 +8,7 @@ A Software Architect Specialist student at ITS Angelo Rizzoli, passionate about 
 # 💻 Tech Stack:
   - Programming languages:
     
-    [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,laravel,php,java,react)](https://skillicons.dev)
+    [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,laravel,php,java,react,typescript)](https://skillicons.dev)
   - Tools:
     
     [![Tools](https://skillicons.dev/icons?i=linux,ubuntu,phpstorm,docker,git,obsidian,aws,mysql,neovim,postman,supabase,vercel)](https://skillicons.dev)
